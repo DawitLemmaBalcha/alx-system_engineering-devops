@@ -1,0 +1,1 @@
+a directory of scripts about shell permissions
